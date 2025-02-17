@@ -1,0 +1,6 @@
+cygwin warning:
+  MS-DOS style path detected: C:\Users\akane\Google Drive\Computer networks and security\03 Labs\lab7_final\GNS_project_2019\Lab7_start\project-files\dynamips
+  Preferred POSIX equivalent is: /cygdrive/c/Users/akane/Google Drive/Computer networks and security/03 Labs/lab7_final/GNS_project_2019/Lab7_start/project-files/dynamips
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames

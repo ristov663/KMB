@@ -1,0 +1,17 @@
+# This the configuration for H_E
+
+#
+
+# Uncomment the following line to enable DHCP
+
+# dhcp
+
+# or the line below to manually setup an IP address and subnet mask
+
+ ip 172.16.60.3 255.255.255.0 172.16.60.1
+
+#
+
+
+
+set pcname H_E
